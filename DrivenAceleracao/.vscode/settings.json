@@ -1,0 +1,11 @@
+{
+  "java.project.sourcePaths": [
+    "RepresentandoMundo/src",
+    "PiramideNumeros/src",
+    "MultiplicaAi/src",
+    "HelloJava/src",
+    "DupicadoNao/src",
+    "api/src/main/java/com/tatecamp/api"
+  ],
+  "java.compile.nullAnalysis.mode": "automatic"
+}
